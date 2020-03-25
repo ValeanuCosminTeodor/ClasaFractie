@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1585151525 source:c:\users\petruandreirazvan\desktop\temalab1poo\main.cpp
+	<iostream>
+	"fractie.h"
+
+1585151636 source:c:\users\petruandreirazvan\desktop\temalab1poo\src\fractie.cpp
+	"fractie.h"
+	<math.h>
+
+1585151438 c:\users\petruandreirazvan\desktop\temalab1poo\include\fractie.h
+	<iostream>
+	<vector>
+
